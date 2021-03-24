@@ -1,5 +1,5 @@
 City,Lat,Long,country,iso2,State
-Thiruvananthapuram,8.485498,76.949238,India,IN,Kerala
+Palakkad,10.7867,76.6548,,India,IN,Kerala
 Coimbatore,11.005547,76.966122,India,IN,Tamil Nadu
 Mumbai,18.987807,72.836447,India,IN,Maharashtra
 New Delhi,28.6,77.2,India,IN,Delhi
@@ -196,6 +196,7 @@ Surat,21.195944,72.830232,India,IN,Gujarat
 Tezpur,26.633333,92.8,India,IN,Assam
 Thanjavur,10.785233,79.139093,India,IN,Tamil Nadu 
 Tharati Etawah,26.758236,79.014875,India,IN,Uttar Pradesh
+Thiruvananthapuram,8.485498,76.949238,India,IN,Kerala
 Tiruchchirappalli,10.815499,78.696513,India,IN,Tamil Nadu 
 Tirunelveli,8.725181,77.684519,India,IN,Tamil Nadu 
 Tirupati,13.635505,79.419888,India,IN,Andhra Pradesh
